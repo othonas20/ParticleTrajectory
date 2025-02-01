@@ -1,0 +1,3 @@
+/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build/CMakeFiles/ParticleTrajectory.dir
+/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build/CMakeFiles/edit_cache.dir
+/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build/CMakeFiles/rebuild_cache.dir

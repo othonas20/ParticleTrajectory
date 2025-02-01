@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowField.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowField.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowField.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowField.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/FlowField/VortexFlowField.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/VortexFlowField.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/VortexFlowField.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/FlowField/VortexFlowField.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowCylinder.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowCylinder.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowCylinder.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowCylinder.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowPipeLaminar.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowPipeLaminar.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowPipeLaminar.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowPipeLaminar.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowWall.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowWall.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField/FlowWall.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/FlowField/FlowWall.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/ODE/ODE.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE/ODE.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE/ODE.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/ODE/ODE.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/SolidWall.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/SolidWall.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/SolidWall.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/SolidWall.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/Cylinder.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/Cylinder.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/Cylinder.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/Cylinder.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/WallStraight.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/WallStraight.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/WallStraight.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/WallStraight.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/Pipe.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/Pipe.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall/Pipe.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/lib/SolidWall/Pipe.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/src/CalculateFields.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/src/CalculateFields.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/src/CalculateFields.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/src/CalculateFields.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/src/ParticleTrajectory.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/src/ParticleTrajectory.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/src/ParticleTrajectory.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/src/ParticleTrajectory.cpp.o"
+},
+{
+  "directory": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/build",
+  "command": "g++  -I/home/vs/eigen-3.4.0 -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/FlowField -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/ODE -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/lib/SolidWall -I/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/include -g -fPIE -o CMakeFiles/ParticleTrajectory.dir/src/exerciseA.cpp.o -c /home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/src/exerciseA.cpp",
+  "file": "/home/vs/Projects/MULTIPHASE_FLOWS/ParticleTrajectory/src/exerciseA.cpp",
+  "output": "CMakeFiles/ParticleTrajectory.dir/src/exerciseA.cpp.o"
+}
+]
